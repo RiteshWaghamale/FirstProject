@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html,body{
+    margin: 100%;
+    padding: 100%;
+
+}
+#main{
+    height: 100%;
+    width: 100%;
+}
+#inrto{
+    height: 100%;
+    width: 100%;
+}
+#intro h1{
+    font-size: 200px;
+}
